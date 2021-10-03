@@ -3,3 +3,6 @@ IMZ RESOLUSI
 - Konsisten belajar graphyc designer seminggu satu kali
 - Part time as graphyc designer
 - Memulai bisnis peternakan
+- Belajar Git dan GitHub lebih lanjut
+- Belajar data strukur lanjutan
+- Belajar machine learning
