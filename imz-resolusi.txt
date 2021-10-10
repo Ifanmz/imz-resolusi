@@ -6,3 +6,4 @@ IMZ RESOLUSI
 - Belajar Git dan GitHub lebih lanjut
 - Belajar data strukur lanjutan
 - Belajar machine learning
+- Belajar NodeJs
