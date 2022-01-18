@@ -8,3 +8,4 @@ IMZ RESOLUSI
 - Belajar machine learning
 - Belajar NodeJs
 - Belajar Cloud computing
+- Belajar Native IOS
