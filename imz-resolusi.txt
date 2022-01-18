@@ -7,3 +7,4 @@ IMZ RESOLUSI
 - Belajar data strukur lanjutan
 - Belajar machine learning
 - Belajar NodeJs
+- Belajar Cloud computing
